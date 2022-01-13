@@ -1,0 +1,12 @@
+.g1{
+    height 500px ;
+    width: 500px;
+    background: yellow;
+}
+.g2 {
+    background: #CCFFFF;
+    color: #0099FF;
+}
+.g3 {
+   display: inline;
+}
